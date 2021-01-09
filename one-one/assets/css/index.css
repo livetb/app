@@ -21,8 +21,9 @@ html, body {
 .download-mela > .bg-square {
   width: 100%;
   padding-bottom: 100%;
-  background: linear-gradient(45deg, #ff002c,#ffc0ff );
-  filter: blur(12px);
+  /* background: linear-gradient(45deg, #ff002c,#ffc0ff ); */
+  background: #800080;
+  filter: blur(10px);
 }
 .download-mela > .bg {
   width: 50%;
